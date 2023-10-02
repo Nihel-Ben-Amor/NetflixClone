@@ -53,9 +53,3 @@ py manage.py migrate
 py manage.py runserver
 ```
 
-## Known Bugs
-- There are no known bugs currently but pull requests are allowed incase you spot a bug
-
-© 2022 Steve Njuguna & Faith Njoki
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
